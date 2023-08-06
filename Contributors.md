@@ -726,6 +726,7 @@ Franco Lai
 - [Iroquois Pliskin aka snekpliskin](https://github.com/snekpliskin)
 - [Chirag Chouhan](https://github.com/Chirag-0)
 - [Samantha Madderom]
+- [Adedigba Lanlehin](https://github.com/ADSLAN)
   Joni
 - [Andrea Leoni](https://github.com/andreleo02)
 - [Zackry Langford](https://github.com/zackrylangford)
